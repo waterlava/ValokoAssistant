@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const {Client, Attachment, MessageEmbed} = require('discord.js');
 const client = new Client();
-const token = 'NzI3OTIwNzU1MDg5ODY2NzUy.Xvy3CA.DWCokzpoJ2DAfnj_IoaP2YaliNk';
+const token = 'NzI3OTIwNzU1MDg5ODY2NzUy.Xvy3CA.ZcbClhi1qY2vYaAINkAkiJ80H1Q';
 const prefix = '-';
 const fs = require('fs');
 client.commands = new Discord.Collection();
